@@ -1,0 +1,10 @@
+/*
+/*/
+!build.gradle
+!gradle.properties
+!gradle
+!gradlew.bat
+!gradlew
+!settings.gradle
+!/src/
+!/gradle/
